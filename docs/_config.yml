@@ -36,7 +36,7 @@ plugins:
 minima:
   skin: dark
 
-avatar: assets\images\tpa_light_q.svg
+avatar: assets\images\tpa.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
